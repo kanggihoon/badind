@@ -112,3 +112,7 @@ API
 Training
 Blog
 About
+
+__pycache__/
+.DS_Store
+venv
